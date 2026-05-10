@@ -1,0 +1,13 @@
+{
+        "image_location": "needs to be path/to/file",
+        "usplash_key": "USPLASHKEY",
+        "bsky_usr": "USRNM.bsky.social",
+        "bsky_pass": "bskypass",
+        "blacklist": "needs to be path/to/file",
+        "blacklist_use": "True",
+        "searchlist_use": "True",
+        "searchlist": "needs to be path/to/file",
+        "searchterm_err_use": "True",
+        "searchterm_err": "needs to be path/to/file",
+        "static_term": "Flower"
+    }
