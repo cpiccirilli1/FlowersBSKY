@@ -2,8 +2,8 @@
 <b>
 ## <i>Set Up the settings.json</i>
 </b>
-- "image_location": "needs to be path/to/file",  -Where on your hard drive your files will be stored.
-- "usplash_key": "USPLASHKEY",   -UNSPLASH.com developer key
+-- "image_location": "needs to be path/to/file",  -Where on your hard drive your files will be stored.
+-- "usplash_key": "USPLASHKEY",   -UNSPLASH.com developer key
 - "bsky_usr": "USRNM.bsky.social", - BSKY user name 
 - "bsky_pass": "bskypass", - BSKY password
 - "blacklist": "needs to be path/to/file", -Blacklist for hashtags from UNSPLASH users
