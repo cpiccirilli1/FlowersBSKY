@@ -13,4 +13,10 @@ Script that posts random images from unsplash.com with various options to tailor
 - "searchlist": "needs to be path/to/file",  -This is a list of terms used for searches. Terms are randomly chosen by function
 - "searchterm_err_use": "True", -Want to use a search term error list? Can only be "True" or "False"
 - "searchterm_err": "needs to be path/to/file",   -Path to error term list
-- "static_term": "Flower"   -Want to search the same term all the time? Here is where we put it. 
+- "static_term": "Flower"   -Want to search the same term all the time? Here is where we put it.
+
+## Additional notes.
+
+- path to settings.json needs to be determined before running the script in the loadsettings() function.
+- This script was meant to be run with a task scheduler or chronjob. If you would like to help make it a service or Daemon please let me know.
+-  
