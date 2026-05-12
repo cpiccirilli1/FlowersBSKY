@@ -18,7 +18,7 @@ Script that posts random images from unsplash.com with various options to tailor
 ## Additional notes.
 
 - path to settings.json needs to be determined before running the script in the load_settings() function.
-'''python
+```python
   def load_settings():
     # gets application settings from json file
     local = "path/to/settings/file.json"
@@ -26,7 +26,7 @@ Script that posts random images from unsplash.com with various options to tailor
         settings = json.load(f)
 
     return settings
-'''
+```
 - This script was meant to be run with a task scheduler or chronjob. If you would like to help make it a service or Daemon please let me know.
 - Use of searchlist_use needs to be "False" for static_term use.
 - You will see preset examples in each list. Feel free to clear them out and follow the formatting example. 
