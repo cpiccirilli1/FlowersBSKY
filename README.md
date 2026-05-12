@@ -40,7 +40,7 @@ Script that posts random images from unsplash.com with various options to tailor
 
 ## Stack
 - ![Static Badge](https://img.shields.io/badge/Python-purple)
-- ![Static Badge](https://img.shields.io/badge/ATPROTO-Orange)
+- ![Static Badge](https://img.shields.io/badge/ATPROTO-orange)
 - ![Static Badge](https://img.shields.io/badge/Requests-blue)
 
 
