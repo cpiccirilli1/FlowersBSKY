@@ -1,5 +1,12 @@
 # <b>FlowersBSKY</b>
-Script that posts random images from unsplash.com with various options to tailor your posting experience 
+Script that posts random images from unsplash.com with various options to tailor your posting experience. 
+
+## Features
+- Basic function: Searches Unsplash.com using the random api endpoint and returns an image that is then posted to your BSKY account. 
+- Hashtag Blacklist to filter images with multiple attempts to get acceptable content
+- Follow back feature when someone follows your BSKY profile
+- Search Term List: A document populated with terms of the users choice that is used to pull an image from UNSPLASH API
+- Search Term Error List: A list of terms that have caused errors in searches (used for massive search term lists)
 
 ## Set Up the settings.json
 
@@ -32,5 +39,8 @@ Script that posts random images from unsplash.com with various options to tailor
 - You will see preset examples in each list. Feel free to clear them out and follow the formatting example.
 
 ## Stack
-- ![Static Badge](https://img.shields.io/badge/python)
+- ![Static Badge](https://img.shields.io/badge/Python-purple)
+- ![Static Badge](https://img.shields.io/badge/ATPROTO-Orange)
+- ![Static Badge](https://img.shields.io/badge/Requests-blue)
+
 
