@@ -1,7 +1,8 @@
 # <b>FlowersBSKY</b>
-<b>
-## <i>Set Up the settings.json</i>
-</b>
+Script that posts random images from unsplash.com with various options to tailor your posting experience 
+
+## Set Up the settings
+
 -- "image_location": "needs to be path/to/file",  -Where on your hard drive your files will be stored.
 -- "usplash_key": "USPLASHKEY",   -UNSPLASH.com developer key
 - "bsky_usr": "USRNM.bsky.social", - BSKY user name 
